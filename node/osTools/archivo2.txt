@@ -1,0 +1,6 @@
+Estrella,Paris
+Giesla,Catalina
+Nuria,Tarradellas
+Luisa,Padilla
+Eva,Llorens
+Barbara,Fruitos
