@@ -1,2 +1,2 @@
 
-console.log(process.argv)
+console.og(process.argv)

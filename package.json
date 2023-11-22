@@ -16,6 +16,8 @@
     "extends": "standard"
   },
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "g": "^2.0.1",
+    "nodemon": "^3.0.1",
+    "picocolors": "^1.0.0"
   }
 }
